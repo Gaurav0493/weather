@@ -1,0 +1,17 @@
+{
+  "main.css": "/weather/static/css/main.1e722d2b.chunk.css",
+  "main.js": "/weather/static/js/main.79df80ae.chunk.js",
+  "main.js.map": "/weather/static/js/main.79df80ae.chunk.js.map",
+  "static/css/1.0c917306.chunk.css": "/weather/static/css/1.0c917306.chunk.css",
+  "static/js/1.d8d7565d.chunk.js": "/weather/static/js/1.d8d7565d.chunk.js",
+  "static/js/1.d8d7565d.chunk.js.map": "/weather/static/js/1.d8d7565d.chunk.js.map",
+  "runtime~main.js": "/weather/static/js/runtime~main.177e1b72.js",
+  "runtime~main.js.map": "/weather/static/js/runtime~main.177e1b72.js.map",
+  "static/media/bootstrap.min.css": "/weather/static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static/media/App.css": "/weather/static/media/orange_sky.46199668.jpg",
+  "static/css/main.1e722d2b.chunk.css.map": "/weather/static/css/main.1e722d2b.chunk.css.map",
+  "static/css/1.0c917306.chunk.css.map": "/weather/static/css/1.0c917306.chunk.css.map",
+  "index.html": "/weather/index.html",
+  "precache-manifest.7515a335b0eba3415dce1a4d4340a528.js": "/weather/precache-manifest.7515a335b0eba3415dce1a4d4340a528.js",
+  "service-worker.js": "/weather/service-worker.js"
+}
